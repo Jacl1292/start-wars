@@ -1,0 +1,12 @@
+body {
+    background-image: url('img/cieloestrellado.jpg');
+    background-size:contain ;
+}
+.container{
+    
+    width: 100%;
+    height: 100rem;
+}
+#nav{
+    margin-top: 1rem;
+}
